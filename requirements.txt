@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+chumpy
+easydict
+tqdm
+bpy==3.5.0
+pyyaml
+toml
