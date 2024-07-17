@@ -1,7 +1,7 @@
 <br />
 <p align="center">
     <h1 align="center">
-        Towards High-Quality 3D Motion Transfer for Stylized Characters with Realistic Apparel Animation
+        Towards High-Quality 3D Motion Transfer with Realistic Apparel Animation
     </h1>
     <h2 align="center">
         MMDMC Dataset
@@ -20,6 +20,12 @@
     <a href="https://github.com/AlanLuSun"><strong>Changsheng Lu</strong></a>
     ·
     <a href="http://users.cecs.anu.edu.au/~hongdong/"><strong>Hongdong Li</strong></a>
+  </p>
+
+  <p align="center">
+    <a href='https://arxiv.org/abs/2407.11266' style='padding-left: 0.5rem;'>
+      <img src='https://img.shields.io/badge/ArXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='ArXiv PDF'>
+    </a>
   </p>
 
 <br />
@@ -133,7 +139,17 @@ Each character pmx folder contains a README file describes the license and the a
 
 ## Citation
 
-To be release.
+```
+@misc{wang2024highquality3dmotiontransfer,
+      title={Towards High-Quality 3D Motion Transfer with Realistic Apparel Animation}, 
+      author={Rong Wang and Wei Mao and Changsheng Lu and Hongdong Li},
+      year={2024},
+      eprint={2407.11266},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.11266}, 
+}
+```
 
 ## Acknowledge
 
