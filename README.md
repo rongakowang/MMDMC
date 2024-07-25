@@ -81,13 +81,13 @@ python -c "import bpy; print(bpy.__file__)"
 Run below command to dump all vmd pairs for character-motion.
 
 ```sh
-python export.py --extract_vmd
+python export.py --extract-vmd
 ```
 
 After that, you can generate blend files with the below command.
 
 ```sh
-python export.py --extract_blend
+python export.py --extract-blend
 ```
 
 Note that this will generates by default blend files with physics simulation enabled. If you wish to disable simulation (e.g. for training the skinning weight predictor, you should also add arguments `--no-physics`). The output can be found in `data/mmd_blend_dataset`.
