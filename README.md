@@ -23,6 +23,9 @@
   </p>
 
   <p align="center">
+    <a href='https://link.springer.com/chapter/10.1007/978-3-031-72933-1_3'>
+      <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=Googlescholar&logoColor=blue' alt='Paper PDF'>
+    </a>
     <a href='https://arxiv.org/abs/2407.11266' style='padding-left: 0.5rem;'>
       <img src='https://img.shields.io/badge/ArXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='ArXiv PDF'>
     </a>
