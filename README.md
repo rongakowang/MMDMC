@@ -143,14 +143,24 @@ Each character pmx folder contains a README file describes the license and the a
 ## Citation
 
 ```
-@misc{wang2024highquality3dmotiontransfer,
-      title={Towards High-Quality 3D Motion Transfer with Realistic Apparel Animation}, 
-      author={Rong Wang and Wei Mao and Changsheng Lu and Hongdong Li},
-      year={2024},
-      eprint={2407.11266},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2407.11266}, 
+@InProceedings{10.1007/978-3-031-72933-1_3,
+    author="Wang, Rong
+    and Mao, Wei
+    and Lu, Changsheng
+    and Li, Hongdong",
+    editor="Leonardis, Ale{\v{s}}
+    and Ricci, Elisa
+    and Roth, Stefan
+    and Russakovsky, Olga
+    and Sattler, Torsten
+    and Varol, G{\"u}l",
+    title="Towards High-Quality 3D Motion Transfer with Realistic Apparel Animation",
+    booktitle="Computer Vision -- ECCV 2024",
+    year="2025",
+    publisher="Springer Nature Switzerland",
+    address="Cham",
+    pages="35--51",
+    isbn="978-3-031-72933-1"
 }
 ```
 
